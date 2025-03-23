@@ -4,7 +4,7 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-03-20', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'TECHISLE.TOP',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '科技岛屿',
   HEO_HERO_TITLE_5: '欢迎来到TECHISLE.TOP',
   HEO_HERO_TITLE_LINK: 'https://blog.techisle.top',
   // 英雄区遮罩文字
@@ -117,10 +117,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '公众号',
+  HEO_SOCIAL_CARD_TITLE_2: '获取更多资讯',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加入',
+  HEO_SOCIAL_CARD_URL: 'https://mp.weixin.qq.com/s/cmXoheH8jQRGUGymvdYS7A',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
@@ -149,7 +149,7 @@ const CONFIG = {
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
   HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
-  HEO_WIDGET_ANALYTICS: false, // 显示统计卡
+  HEO_WIDGET_ANALYTICS: true, // 显示统计卡
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: true, // 跳到评论区
   HEO_WIDGET_DARK_MODE: true, // 夜间模式
